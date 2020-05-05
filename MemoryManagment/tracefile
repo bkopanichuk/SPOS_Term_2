@@ -1,0 +1,198 @@
+READ 751049 ... page fault
+READ 248747 ... okay
+READ 148980 ... okay
+READ 925614 ... page fault
+READ 353630 ... okay
+READ 159451 ... okay
+READ 72847 ... okay
+READ 695488 ... page fault
+READ 783725 ... page fault
+READ 268945 ... okay
+READ 194380 ... okay
+READ 444272 ... okay
+READ 852814 ... page fault
+READ 863349 ... okay
+READ 243562 ... okay
+READ 57558 ... page fault
+READ 1006143 ... page fault
+READ 998342 ... page fault
+READ 251816 ... okay
+READ 52660 ... okay
+READ 875221 ... page fault
+READ 436843 ... okay
+READ 942023 ... page fault
+READ 799595 ... page fault
+READ 403639 ... okay
+READ 428015 ... okay
+READ 787292 ... okay
+READ 311271 ... okay
+READ 783416 ... okay
+READ 321114 ... okay
+READ 142873 ... page fault
+READ 633160 ... page fault
+READ 791431 ... okay
+READ 614994 ... page fault
+READ 717657 ... page fault
+READ 152972 ... okay
+READ 1009433 ... okay
+READ 683177 ... page fault
+READ 1015275 ... okay
+READ 253639 ... okay
+READ 39112 ... page fault
+READ 794762 ... okay
+READ 926076 ... okay
+READ 677690 ... okay
+READ 461158 ... page fault
+READ 269404 ... okay
+READ 573914 ... page fault
+READ 806207 ... page fault
+READ 634366 ... okay
+READ 299842 ... okay
+READ 558169 ... page fault
+READ 784235 ... okay
+READ 278197 ... okay
+READ 78481 ... okay
+READ 11952 ... page fault
+READ 110977 ... page fault
+READ 719947 ... okay
+READ 997191 ... okay
+READ 623687 ... okay
+READ 155433 ... okay
+READ 861724 ... okay
+READ 323695 ... okay
+READ 237659 ... okay
+READ 370050 ... page fault
+READ 892076 ... page fault
+READ 611656 ... okay
+READ 98866 ... okay
+READ 884446 ... okay
+READ 334018 ... page fault
+READ 780137 ... okay
+READ 781459 ... okay
+READ 1021156 ... page fault
+READ 684099 ... okay
+READ 916231 ... page fault
+READ 12682 ... okay
+READ 285947 ... page fault
+READ 395394 ... page fault
+READ 601336 ... page fault
+READ 809026 ... okay
+READ 585228 ... okay
+READ 434327 ... page fault
+READ 272561 ... okay
+READ 1031917 ... okay
+READ 893205 ... okay
+READ 717641 ... okay
+READ 647683 ... page fault
+READ 741881 ... page fault
+READ 1024721 ... okay
+READ 340298 ... okay
+READ 780815 ... okay
+READ 116803 ... page fault
+READ 561382 ... okay
+READ 762288 ... page fault
+READ 111744 ... okay
+READ 318952 ... okay
+READ 817030 ... okay
+READ 404838 ... okay
+READ 600469 ... okay
+READ 493161 ... page fault
+READ 110688 ... okay
+READ 701145 ... page fault
+READ 431795 ... okay
+READ 122897 ... okay
+READ 112180 ... okay
+READ 569911 ... okay
+READ 501329 ... okay
+READ 164575 ... page fault
+READ 645070 ... okay
+READ 983494 ... page fault
+READ 403896 ... okay
+READ 285864 ... okay
+READ 1236 ... okay
+READ 496405 ... okay
+READ 715654 ... okay
+READ 196960 ... page fault
+READ 403661 ... okay
+READ 595486 ... okay
+READ 823439 ... page fault
+READ 404144 ... okay
+READ 802901 ... okay
+READ 428112 ... okay
+READ 384929 ... page fault
+READ 669271 ... page fault
+READ 528809 ... page fault
+READ 450555 ... page fault
+READ 617574 ... page fault
+READ 389672 ... okay
+READ 75212 ... page fault
+READ 298668 ... page fault
+READ 334102 ... okay
+READ 115131 ... okay
+READ 14421 ... okay
+READ 345489 ... page fault
+READ 74592 ... okay
+READ 841591 ... page fault
+READ 447039 ... okay
+READ 96741 ... page fault
+READ 255803 ... page fault
+READ 492496 ... okay
+READ 482848 ... page fault
+READ 204608 ... okay
+READ 468178 ... page fault
+READ 138394 ... page fault
+READ 249349 ... okay
+READ 420576 ... page fault
+READ 621703 ... okay
+READ 135617 ... okay
+READ 489723 ... okay
+READ 362364 ... page fault
+READ 870795 ... page fault
+READ 580435 ... page fault
+READ 132878 ... okay
+READ 794856 ... page fault
+READ 423812 ... okay
+READ 966530 ... page fault
+READ 29022 ... page fault
+READ 496086 ... okay
+READ 907890 ... page fault
+READ 816690 ... okay
+READ 661497 ... okay
+READ 762339 ... page fault
+READ 417517 ... okay
+READ 330058 ... okay
+READ 209518 ... okay
+READ 597310 ... page fault
+READ 1003514 ... page fault
+READ 1025125 ... page fault
+READ 40909 ... page fault
+READ 629601 ... page fault
+READ 339541 ... okay
+READ 900434 ... page fault
+READ 895125 ... okay
+READ 974397 ... page fault
+READ 215782 ... page fault
+READ 98454 ... page fault
+READ 889253 ... okay
+READ 56956 ... page fault
+READ 351059 ... page fault
+READ 791362 ... okay
+READ 445956 ... okay
+READ 418430 ... okay
+READ 100950 ... okay
+READ 1024052 ... okay
+READ 413276 ... okay
+READ 157938 ... page fault
+READ 177265 ... page fault
+READ 523152 ... page fault
+READ 115918 ... page fault
+READ 992412 ... page fault
+READ 491200 ... page fault
+READ 424152 ... okay
+READ 739369 ... page fault
+READ 206067 ... okay
+READ 250272 ... page fault
+READ 846389 ... page fault
+READ 780073 ... page fault
+READ 435677 ... page fault
+READ 918710 ... page fault
