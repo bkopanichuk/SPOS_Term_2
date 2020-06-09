@@ -1,0 +1,32 @@
+package lexer;
+
+public enum State {
+    HEX_N,
+    START,
+    IDENTIFIER,
+    COMMENT,
+    ERROR,
+    ERR_COMM,
+    NUMBER_DOUBLE,
+    NUMBER,
+    DOUBLE_ASSIGN,
+    TRIPLE_ASSIGN,
+    DOUBLE_COLON,
+    DOUBLE_QUESTION_MARK,
+    NUMBER_LONG,
+    DOT,
+    ZERO,
+    OPER_FIRST_SYM,
+    MINUS,
+    CHAR_LIT,
+    CHAR_T,
+    END_CHAR_LIT,
+    STRING_LIT,
+    STRING_LIT_BODY,
+    STRING_LIT_SYM,
+    NUMBER_DOT,
+    HEX,
+    ONE_LINE_COMMENT,
+    MULTI_LINE_COMMENT,
+    MULTI_LINE_COMMENT_STAR
+}

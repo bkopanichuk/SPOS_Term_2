@@ -1,0 +1,40 @@
+10.5%=5;
+0x1E26B
+""
+''
+if;
+!!
+?:
+?.
+::
+:.
+->
+$
+@
+val x = 2L
+..
+//dfsdfs
+a{1,2}
+else
+1+1;
+class A {
+}
+'c';
+'\n';
+'fr';
+"check";
+true;
+boolean test += 1;
+int a < b;
+/* ejkfhje* sdefrf
+*/
+//hfhfhhfh
+44er_9080?!
+a == b
+a !== b
+===
+=
+:
+double a = 1.;
+1.1.1
+/*jhsd
