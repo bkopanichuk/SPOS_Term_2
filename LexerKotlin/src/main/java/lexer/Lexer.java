@@ -62,8 +62,10 @@ public class Lexer {
                         tokens.add(new Token(Type.OPERATOR, Character.toString(character)));
                         setStart();
                     }
-                    else if (character == '+' || character == '&' || character == '|')
+                    else if (character == '+')
                         curState = State.OPER_FIRST_SYM;
+                    else if (character == '&' || character == '|')
+                        curState = State.OPER_SECOND_SYM;
                     else
                         checkTerminateSymbol(character);
                     analyzed = true;
@@ -203,6 +205,19 @@ public class Lexer {
                         tokens.add(new Token(Type.OPERATOR, buffer));
                         setStart();
                         analyzed = false;
+                    }
+                }
+                break;
+
+                case OPER_SECOND_SYM: {
+                    if (Character.toString(character).equals(buffer)) {
+                        tokens.add(new Token(Type.OPERATOR,buffer + Character.toString(character)));
+                        setStart();
+                        analyzed = true;
+                    } else {
+                        tokens.add(new Token(Type.ERROR, buffer));
+                        setStart();
+                        analyzed = true;
                     }
                 }
                 break;

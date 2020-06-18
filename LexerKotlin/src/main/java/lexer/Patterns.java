@@ -13,10 +13,9 @@ public class Patterns {
             "setparam","where","actual","abstract","annotation","companion","const","crossinline","data","enum",
             "expect","external","final","infix","inline","inner","internal","lateinit","noinline","open",
             "operator","out","override","private","protected","public","reified","sealed","suspend","tailrec",
-            "vararg","field","it"};
+            "vararg","field","it", "shl", "shr", "ushr", "and", "or", "xor", "inv"};
 
     public static final Character[] VALUES_PUN = new Character[] {'-','+','=','{','}','[',']',';',':','"','<','>','?',',','/',' ', '\n', '\t', '!','%','&','*','(',')','@','$'};
-
     public static final String[] VALUES_LIT = new String[]{"true", "false", "null"};
 
 

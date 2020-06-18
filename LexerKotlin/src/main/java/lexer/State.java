@@ -17,6 +17,7 @@ public enum State {
     DOT,
     ZERO,
     OPER_FIRST_SYM,
+    OPER_SECOND_SYM,
     MINUS,
     CHAR_LIT,
     CHAR_T,
