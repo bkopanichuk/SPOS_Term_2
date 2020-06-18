@@ -28,7 +28,6 @@ public class Patterns {
     {
         return keywords.contains(word);
     }
-
     public static boolean isPunctuation(char word)
     {
         return punctuation.contains(word);

@@ -185,6 +185,8 @@ public class Lexer {
                     if (character == '/') {
                         tokens.add(new Token(Type.COMMENT, buffer + Character.toString(character)));
                         setStart();
+                    } else if (character == '*') {
+                        curState = State.MULTI_LINE_COMMENT_STAR;
                     } else {
                         curState = State.MULTI_LINE_COMMENT;
                     }

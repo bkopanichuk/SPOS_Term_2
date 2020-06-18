@@ -7,7 +7,6 @@ public enum Type {
     KEYWORD,
     LITERAL,
     OPERATOR,
-    PREPROCESOR_DIR,
     PUNCTUATION,
     NUMBER
 }
